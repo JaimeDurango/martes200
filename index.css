@@ -1,0 +1,22 @@
+h2, p {
+    color: red;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.class {
+    background-color: aqua;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px;
+    float: right;
+}
+.visita {
+background-color: greenyellow;
+}
+.nation{
+    background-color: red;
+}
